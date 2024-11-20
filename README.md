@@ -2,11 +2,11 @@
 
 ## starting a server using express js 
 
-[Server](./images/server.png)
+![Server](./images/server.png)
 
 ## routers 
-[Routers](./images/routers.png)
+![Routers](./images/routers.png)
 
 ## controllers where logic goes on
 
-[Logic](./images/logic.png)
+![Logic](./images/logic.png)
