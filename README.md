@@ -1,4 +1,4 @@
-# simple Api use nodejs and express js
+# simple Api using nodejs and express js
 
 ## starting a server using express js 
 
