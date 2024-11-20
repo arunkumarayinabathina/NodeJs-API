@@ -1,0 +1,33 @@
+# Dependency directories
+node_modules/
+
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+
+.DS_Store
+Thumbs.db
+
+dist/
+build/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.suo
+*.bak
+*.tmp
+
+
+coverage/
+
+
+*.tmp
+*.lock
